@@ -1,0 +1,15 @@
+{
+  "name": "getaddress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.8",
+    "ethereumjs-util": "^7.1.5"
+  }
+}
